@@ -1,0 +1,2 @@
+streamlit >= 1.21.0
+black >= 23.3.0
