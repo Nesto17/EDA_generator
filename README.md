@@ -2,6 +2,7 @@
 ## EDA Graph Generator
 
 #### Ernest Salim - 406039810
+**UCLA Spring 2023 Quarter**
 
 Head to [this link](https://nesto17-stats21-eda-webapp-app-zaadjd.streamlit.app/) to see the deployed app.
 
