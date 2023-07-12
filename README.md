@@ -1,8 +1,6 @@
-# STATS 21
-## EDA Graph Generator
+## EDA Visualizer
 
-#### Ernest Salim - 406039810
-**UCLA Spring 2023 Quarter**
+#### Ernest Salim
 
 Head to [this link](https://nesto17-stats21-eda-webapp-app-zaadjd.streamlit.app/) to see the deployed app.
 
